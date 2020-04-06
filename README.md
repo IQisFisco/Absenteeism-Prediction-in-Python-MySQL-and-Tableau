@@ -14,6 +14,7 @@ The dataset used for the analysis has 12 columns.
 12. Absenteeism Time in Hours.
 
 The flow of jupyter notebooks is as followed:
+
 1 - Preprocessing using Python
 2 - Machine Learning with Logistic Regression and creating a module using Python
 3 - Integration with MySQL
