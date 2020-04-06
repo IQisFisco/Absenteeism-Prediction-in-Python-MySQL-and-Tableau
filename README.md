@@ -16,7 +16,9 @@ The dataset used for the analysis has 12 columns.
 The flow of jupyter notebooks is as followed:
 
 1 - Preprocessing using Python (https://github.com/IQisFisco/Absenteeism-Prediction-in-Python-MySQL-and-Tableau/blob/master/Data_Preprocessing.ipynb)
-2 - Machine Learning with Logistic Regression and creating a module using Python
+
+2 - Machine Learning with Logistic Regression and creating a module using Python (https://github.com/IQisFisco/Absenteeism-Prediction-in-Python-MySQL-and-Tableau/blob/master/Machine_Learning.ipynb)
+
 3 - Integration with MySQL
 4 - Querying MySQL and exporting to CSV
 5 - The Tableau Public dashboard
