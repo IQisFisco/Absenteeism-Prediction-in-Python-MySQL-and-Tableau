@@ -21,5 +21,6 @@ The flow of jupyter notebooks is as followed:
 
 3 - Integration with MySQL (https://github.com/IQisFisco/Absenteeism-Prediction-in-Python-MySQL-and-Tableau/blob/master/Integration.ipynb)
 
-4 - Querying MySQL and exporting to CSV
-5 - The Tableau Public dashboard
+4 - Querying MySQL and exporting to CSV (https://github.com/IQisFisco/Absenteeism-Prediction-in-Python-MySQL-and-Tableau/blob/master/Querying_MySQL.ipynb)
+
+5 - The Tableau Public dashboard (https://public.tableau.com/profile/faisal3380#!/vizhome/AbsenteeismPredictionExercise/AbsenteeismoftheEmployees?publish=yes)
