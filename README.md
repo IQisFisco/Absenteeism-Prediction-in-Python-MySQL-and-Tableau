@@ -19,6 +19,7 @@ The flow of jupyter notebooks is as followed:
 
 2 - Machine Learning with Logistic Regression and creating a module using Python (https://github.com/IQisFisco/Absenteeism-Prediction-in-Python-MySQL-and-Tableau/blob/master/Machine_Learning.ipynb)
 
-3 - Integration with MySQL
+3 - Integration with MySQL (https://github.com/IQisFisco/Absenteeism-Prediction-in-Python-MySQL-and-Tableau/blob/master/Integration.ipynb)
+
 4 - Querying MySQL and exporting to CSV
 5 - The Tableau Public dashboard
